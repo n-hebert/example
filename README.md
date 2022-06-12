@@ -1,5 +1,8 @@
 # Go example projects
 
+<!-- aHR0cHM6Ly9kcml2ZVtkb3RdZ29vZ2xlW2RvdF1jb20vZmlsZS9kLzF6QUE5M2szVERrTHB5bjU2
+eUZwRnZMb3VEclp6X2EtMC92aWV3P3VzcD1zaGFyaW5n -->
+
 [![Go Reference](https://pkg.go.dev/badge/golang.org/x/example.svg)](https://pkg.go.dev/golang.org/x/example)
 
 This repository contains a collection of Go programs and libraries that
